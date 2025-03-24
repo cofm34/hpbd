@@ -19,18 +19,18 @@ var config = {
 
     imgs: {
         "Gửi đến": "./imgs/songxinxin.jpeg",
-        "Chung Hồng Yến": "./imgs/nothing.jpg",
-        "Hôm nay là sinh nhật của em": "./imgs/shengri.jpeg",
-        "Đây là sinh nhật thứ 21": "./imgs/zaiyiqi.png",
-        "Chúc em sinh nhật vui vẻ": "./imgs/nothing.jpg",
-        "Cảm ơn em vì đã xuất hiện trong cuộc đời này": "./imgs/yangzi.jpeg",
-        "Đều ngọt ngào như chiếc bánh sinh nhật hôm nay.": "./imgs/nothing.jpg",
-        "Chúc em luôn hạnh phúc": "./imgs/nothing.jpg",
-        "Mãi cười thật tươi": "./imgs/nothing.jpg",
-        "Và để anh...": "./imgs/nothing.jpg",
-        "Được nắm tay em": "./imgs/chuo.gif",
-        "Đi qua mọi mùa sinh nhật sau này!": "./imgs/chihaodian.jpeg",
-        "Chúc mừng sinh nhật em iuu~~": "./imgs/weibao.jpeg"
+        "Chung Hồng Yến": "./imgs/1.jpg",
+        "Hôm nay là sinh nhật của em": "./imgs/2.jpg",
+        "Đây là sinh nhật thứ 21": "./imgs/21.jpg",
+        "Chúc em sinh nhật vui vẻ": "./imgs/h.jpg",
+        "Cảm ơn em vì đã xuất hiện trong cuộc đời này": "./imgs/j.jpg",
+        "Đều ngọt ngào như chiếc bánh sinh nhật hôm nay.": "./imgs/banh.jpg",
+        "Chúc em luôn hạnh phúc": "./imgs/j.jpg",
+        "Mãi cười thật tươi": "./imgs/j.jpg",
+        "Và để anh...": "./imgs/j.jpg",
+        "Được nắm tay em": "./imgs/4.jpg",
+        "Đi qua mọi mùa sinh nhật sau này!": "./imgs/h.jpg",
+        "Chúc mừng sinh nhật em iuu~~": "./imgs/2.jpg"
     },
     
     desc: {
